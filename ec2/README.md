@@ -1,1 +1,1 @@
-![alt text](https://github.com/[Kyoharo]/[Terraform]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[Kyoharo]/[Terraform]/blob/[main]/ec2/graph.png?raw=true)
