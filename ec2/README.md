@@ -1,1 +1,1 @@
-!(graph.png)
+![ec2](graph.png)
